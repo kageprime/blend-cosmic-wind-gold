@@ -1,0 +1,35 @@
+{
+  "mode": "sample",
+  "clean_dir": "/tmp/lyra-e-src",
+  "total_clean": 16,
+  "sets": [
+    {
+      "count": 8,
+      "tag": "",
+      "sprites": [
+        "/workspace/assets/sprites/lyra/v2d-e/sprite/sprite_01.png",
+        "/workspace/assets/sprites/lyra/v2d-e/sprite/sprite_02.png",
+        "/workspace/assets/sprites/lyra/v2d-e/sprite/sprite_03.png",
+        "/workspace/assets/sprites/lyra/v2d-e/sprite/sprite_04.png",
+        "/workspace/assets/sprites/lyra/v2d-e/sprite/sprite_05.png",
+        "/workspace/assets/sprites/lyra/v2d-e/sprite/sprite_06.png",
+        "/workspace/assets/sprites/lyra/v2d-e/sprite/sprite_07.png",
+        "/workspace/assets/sprites/lyra/v2d-e/sprite/sprite_08.png"
+      ],
+      "strip": "/workspace/assets/sprites/lyra/v2d-e/sprite/run-strip-8.png",
+      "grid": "/workspace/assets/sprites/lyra/v2d-e/sprite/run-grid-8.png",
+      "gif": "/workspace/assets/sprites/lyra/v2d-e/sprite/run-preview-8.gif",
+      "gif_ms": 80,
+      "indices": [
+        0,
+        2,
+        4,
+        6,
+        9,
+        11,
+        13,
+        15
+      ]
+    }
+  ]
+}
